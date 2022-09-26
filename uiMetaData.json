@@ -1,0 +1,57 @@
+{
+  "name": "New-26",
+  "connectorType": "",
+  "userId": null,
+  "domoClientId": "",
+  "domoClientSecret": "",
+  "additionalInfo": "Testing only.  Do not publish",
+  "reportLength": 5,
+  "days": 7,
+  "reports": [
+    "Past Hour",
+    "Past Day",
+    "Past 7 Days",
+    "Past 30 Days",
+    "Pull data from the last X day(s)"
+  ],
+  "advancedReports": null,
+  "guid": "d0e63bca-6ed3-4d6e-82ce-de2e72102120",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "private"
+  },
+  "parameters": [
+    {
+      "name": "",
+      "type": "string",
+      "required": false,
+      "order": -1,
+      "options": [],
+      "command": null,
+      "helpText": null,
+      "showWhen": null,
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:750"
+    }
+  ],
+  "commands": null,
+  "showAdvanced": true,
+  "submittedVersion": 52,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": null,
+  "visible": true
+}
